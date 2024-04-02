@@ -65,7 +65,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/AnjaliOwnerBot"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/AnjaliOwnerBot"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴍᴀʜᴛᴏ ᴀɴᴊᴀʟɪ](https://github.com/MAHTO-ANJALI) ғᴏʀ [ᴀɴᴊᴀʟɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/MAHTO-ANJALI/AnjaliMusicFour)_ </b>
