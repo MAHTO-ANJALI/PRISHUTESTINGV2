@@ -22,9 +22,9 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "5400")
 )
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", ""))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1001970031336"))
 
-# Get this value from @Hot_Girl_Robot on Telegram by /id
+# Get this value from @AnjaliMusicFourBot on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", "6260080241"))
 
 ## Fill these variables if you're deploying on heroku.
@@ -86,12 +86,12 @@ clean = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/4f13826537ef6a7efa6bd.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://te.legra.ph/file/7d5a4455289629dcc8825.jpg"
 )
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/60383e2ab0ca63e29e72f.jpg"
+PLAYLIST_IMG_URL = "https://te.legra.ph/file/4f13826537ef6a7efa6bd.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/8cba9e7ff16d003ab0384.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/a1c8f8892240ee1b33cea.jpg"
