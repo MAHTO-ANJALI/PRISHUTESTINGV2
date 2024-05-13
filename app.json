@@ -1,7 +1,7 @@
 {
-    "name": "˹𝐀ɴᴊᴀʟɪ ꭙ 𝐌ᴜsɪᴄ˼ ♪⁴",
+    "name": "PRISHU MUSIC",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/4f13826537ef6a7efa6bd.jpg",
+    "logo": "https://te.legra.ph/file/48f3942d08a08eb4a93e7.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6260080241",
+        "value": "6350757877",
         "required": true
       },
       "STRING_SESSION": {
