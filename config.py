@@ -86,13 +86,13 @@ clean = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/4f13826537ef6a7efa6bd.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/48f3942d08a08eb4a93e7.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://te.legra.ph/file/7d5a4455289629dcc8825.jpg"
+    "PING_IMG_URL", "https://te.legra.ph/file/6d4dc4b24fd867cb6edb2.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4f13826537ef6a7efa6bd.jpg"
-STATS_IMG_URL = "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/eb054ff3c5c532ba7c0b2.jpg"
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/8cba9e7ff16d003ab0384.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/a1c8f8892240ee1b33cea.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/4d4b081cba74e6a6cf640.jpg"
