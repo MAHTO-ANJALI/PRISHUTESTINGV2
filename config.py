@@ -22,10 +22,10 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "5400")
 )
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1001970031336"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002077359484"))
 
 # Get this value from @AnjaliMusicFourBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "6260080241"))
+OWNER_ID = int(getenv("OWNER_ID", "6350757877"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -35,15 +35,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/MAHTO-ANJALI/AnjaliMusicFour",
+    "https://github.com/MAHTO-ANJALI/PRISHUMUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AnjalixSupportxGroup")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ANJALIxWORLD")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "http://t.me/+YvPfBPHypFgzOTY9")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/RBGOFFICIAL1")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", "false"))
