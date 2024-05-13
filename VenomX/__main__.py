@@ -49,12 +49,12 @@ async def init():
     except:
         pass
     await Ayush.decorators()
-    LOGGER("VenomX").info("ᴀɴᴊᴀʟɪ ᴍᴜsɪᴄ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ ɴᴏᴡ ᴇɴᴊᴏʏ")
+    LOGGER("VenomX").info("ᴘʀɪsʜᴜ ᴍᴜsɪᴄ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ ɴᴏᴡ ᴇɴᴊᴏʏ")
 
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("VenomX").info("Stopping Anjali Music Bot...")
+    LOGGER("VenomX").info("Stopping Prishu Music Bot...")
 
 
 if __name__ == "__main__":
