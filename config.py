@@ -22,10 +22,10 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "5400")
 )
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002077359484"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002142659952"))
 
 # Get this value from @AnjaliMusicFourBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "6350757877"))
+OWNER_ID = int(getenv("OWNER_ID", "6677489079"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -35,7 +35,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/MAHTO-ANJALI/PRISHUMUSIC",
+    "https://github.com/MAHTO-ANJALI/PRISHUTESTINGV2",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
